@@ -1,0 +1,11 @@
+{
+  "name": "string-math-tools",
+  "description": "Python string vowel conversion and arithmetic with multiples of 10",
+  "version": "1.0.0",
+  "author": {
+    "name": "davidbrownell"
+  },
+  "repository": "https://github.com/davidbrownell/ClaudePluginTest",
+  "license": "MIT",
+  "keywords": ["strings", "python", "math", "arithmetic"]
+}
