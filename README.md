@@ -15,6 +15,10 @@ Raw result: 12
 Rounded to nearest 10: 10
 ```
 
+5. `/code-review src/utils/auth.ts` -> Comprehensive code review
+6. `/code-review staged` -> Review staged git changes
+7. `/code-review 123` -> Review PR #123
+
 ## To Distribute
 
 1. In claude...
